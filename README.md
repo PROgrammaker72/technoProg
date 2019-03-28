@@ -1,2 +1,2 @@
 # technoProg
-Univarsity labs for Nosov
+University labs for Nosov
